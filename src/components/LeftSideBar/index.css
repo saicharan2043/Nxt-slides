@@ -1,0 +1,12 @@
+.SideBarContainer {
+  height: 100vh;
+  width: 27%;
+  padding: 0px;
+  overflow: auto;
+}
+
+.UnOrderList {
+  display: flex;
+  flex-direction: column;
+  padding: 0px;
+}
